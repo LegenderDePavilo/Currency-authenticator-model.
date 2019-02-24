@@ -1,0 +1,5 @@
+Variance of Wavelet Transformed image	
+Skewness of Wavelet Transformed image	
+Kurtosis of Wavelet Transformed image	
+Entropy of image	
+Class
